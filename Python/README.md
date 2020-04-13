@@ -1,0 +1,11 @@
+# Python
+
+|  Subdomain   |            Challenge            |                                       Problem                                        | Difficulty | Score |                                           Solution                                            |
+| :----------: | :-----------------------------: | :----------------------------------------------------------------------------------: | :--------: | :---: | :-------------------------------------------------------------------------------------------: |
+| Introduction | Say 'Hello, World!' With Python |       [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem)        |    Easy    |   5   | [Solution](/Python/01%20-%20Introduction/01%20-%20Say%20'Hello,%20World!'%20With%20Python.py) |
+| Introduction |         Python If-Else          |         [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)          |    Easy    |  10   |            [Solution](/Python/01%20-%20Introduction/02%20-%20Python%20If-Else.py)             |
+| Introduction |      Arithmetic Operators       | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) |    Easy    |  10   |         [Solution](/Python/01%20-%20Introduction/03%20-%20Arithmetic%20Operators.py)          |
+| Introduction |         Python Division         |       [Problem](https://www.hackerrank.com/challenges/python-division/problem)       |    Easy    |  10   |          [Solution](/Python/01%20-%20Introduction/04%20-%20Python%20-%20Division.py)          |
+| Introduction |              Loops              |        [Problem](https://www.hackerrank.com/challenges/python-loops/problem)         |    Easy    |  10   |                  [Solution](/Python/01%20-%20Introduction/05%20-%20Loops.py)                  |
+| Introduction |        Write a function         |      [Problem](https://www.hackerrank.com/challenges/write-a-function/problem)       |   Medium   |  10   |          [Solution](/Python/01%20-%20Introduction/06%20-%20Write%20a%20function.py)           |
+| Introduction |         Print Function          |        [Problem](https://www.hackerrank.com/challenges/python-print/problem)         |    Easy    |  20   |            [Solution](/Python/01%20-%20Introduction/07%20-%20Print%20Function.py)             |
