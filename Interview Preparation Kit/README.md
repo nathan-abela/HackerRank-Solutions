@@ -1,0 +1,8 @@
+# Interview Preparation Kit
+
+|       Domain       |       Challenge       |                                    Problem                                     | Difficulty | Score |                                                     Solution                                                     |
+| :----------------: | :-------------------: | :----------------------------------------------------------------------------: | :--------: | :---: | :--------------------------------------------------------------------------------------------------------------: |
+| Warm-up Challenges |     Sock Merchant     |     [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)     |    Easy    |  10   |       [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/01%20-%20Sock%20Merchant.py)       |
+| Warm-up Challenges |   Counting Valleys    |   [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem)    |    Easy    |  15   |     [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/02%20-%20Counting%20Valleys.py)      |
+| Warm-up Challenges | Jumping on the Clouds | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) |    Easy    |  20   | [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/03%20-%20Jumping%20on%20the%20Clouds.py) |
+| Warm-up Challenges |    Repeated String    |    [Problem](https://www.hackerrank.com/challenges/repeated-string/problem)    |    Easy    |  20   |      [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/04%20-%20Repeated%20String.py)      |
