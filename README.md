@@ -4,9 +4,9 @@
     </a>
 </p>
 
-# Hacker Rank | Practice & Tutorials Solutions
+# Hacker Rank | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to Hacker Rank **practice** and **tutorials** problems with **Python 3**, **mySQL**, and **JavaScript**.
+This repository consists of solutions to Hacker Rank **practice**, **tutorials**, and **interview preparation** problems with **Python 3**, **mySQL**, and **JavaScript**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela)
 [![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela)
@@ -172,6 +172,15 @@ This repository consists of solutions to Hacker Rank **practice** and **tutorial
 |  27   |                 Testing                 |           [Problem](https://www.hackerrank.com/challenges/30-testing/problem)            |    Easy    |  30   |                      [Solution](/30%20Days%20of%20Code/28%20-%20Day%2027%20-%20Testing.py)                      |
 |  28   | RegEx, Patterns, and Intro to Databases |        [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem)        |   Medium   |  30   | [Solution](/30%20Days%20of%20Code/29%20-%20Day%2028%20-%20RegEx,%20Patterns,%20and%20Intro%20to%20Databases.py) |
 |  29   |               Bitwise AND               |         [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem)          |   Medium   |  30   |                   [Solution](/30%20Days%20of%20Code/30%20-%20Day%2029%20-%20Bitwise%20AND.py)                   |
+
+## Interview Preparation Kit
+
+|          Domain           |         Challenge         |                                      Problem                                      | Difficulty | Score |                                                            Solution                                                            |
+| :-----------------------: | :-----------------------: | :-------------------------------------------------------------------------------: | :--------: | :---: | :----------------------------------------------------------------------------------------------------------------------------: |
+|    Warm-up Challenges     |       Sock Merchant       |      [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)       |    Easy    |  10   |              [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/01%20-%20Sock%20Merchant.py)              |
+|    Warm-up Challenges     |     Counting Valleys      |     [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem)     |    Easy    |  15   |            [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/02%20-%20Counting%20Valleys.py)             |
+|    Warm-up Challenges     |   Jumping on the Clouds   |  [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)   |    Easy    |  20   |        [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/03%20-%20Jumping%20on%20the%20Clouds.py)        |
+|    Warm-up Challenges     |      Repeated String      |     [Problem](https://www.hackerrank.com/challenges/repeated-string/problem)      |    Easy    |  20   |             [Solution](/Interview%20Preparation%20Kit/01%20-%20Warm-up%20Challenges/04%20-%20Repeated%20String.py)             |
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
