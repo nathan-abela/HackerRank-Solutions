@@ -1,0 +1,41 @@
+body {
+	width: 33%;
+}
+
+#res {
+	background-color: lightgray;
+	border: solid;
+	border-color: black;
+	height: 48px;
+	font-size: 20px;
+}
+
+.lgreen {
+	background-color: lightgreen;
+	width: 25%;
+	font-size: 18px;
+	margin: 0px;
+	float: left;
+	color: brown;
+	height: 36px;
+}
+
+.upper>.dgreen {
+	background-color: darkgreen;
+	width: 25%;
+	font-size: 18px;
+	margin: 0px;
+	float: left;
+	color: white;
+	height: 36px;
+}
+
+.lower>.operator {
+	background-color: black;
+	width: 25%;
+	height: 36px;
+	font-size: 18px;
+	margin: 0px;
+	color: red;
+	float: left;
+}
