@@ -6,10 +6,10 @@
 
 # HackerRank | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python 3**, **mySQL**, and **JavaScript**.
+This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, and **JavaScript**.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela)
-[![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela/HackerRank-Solutions/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nathan-abela/HackerRank-Solutions/archive/master.zip)
 
 ## Personal HackerRank Profile
 
@@ -22,6 +22,19 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 ![10 Days of JavaScript](/Badges/10_days_of_javascript_5_star.png)
 ![10 Days of Statistics](/Badges/10_days_of_statistics_5_star.png)
 ![30 Days of Code](/Badges/30_days_of_code_5_star.png)
+
+## HackerRank Certificates
+
+![Python](/Badges/python_basic_skill.png)
+![Java](/Badges/java_basic_skill.png)
+![JavaScript](/Badges/javascript_basic_skill.png)
+
+## Table Of Contents
+
+* [Practices Completed](#practices-completed)
+* [Tutorials Completed](#tutorials-completed)
+* [Interview Preparation Kit](#interview-preparation-kit)
+* [Certificates](#certificates)
 
 ## Practices Completed
 
@@ -284,6 +297,20 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |     Greedy Algorithm      |             Greedy Florist              |             [Problem](https://www.hackerrank.com/challenges/greedy-florist/problem)              |   Medium   |  35   |                 [Solution](/Interview%20Preparation%20Kit/06%20-%20Greedy%20Algorithms/03%20-%20Greedy%20Florist.py)                  |
 |     Greedy Algorithm      |                 Max Min                 |             [Problem](https://www.hackerrank.com/challenges/angry-children/problem)              |   Medium   |  35   |                     [Solution](/Interview%20Preparation%20Kit/06%20-%20Greedy%20Algorithms/04%20-%20Max%20Min.py)                     |
 |     Greedy Algorithm      |          Reverse Shuffle Merge          |          [Problem](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem)          |  Advanced  |  50   |             [Solution](/Interview%20Preparation%20Kit/06%20-%20Greedy%20Algorithms/05%20-%20Reverse%20Shuffle%20Merge.py)             |
+
+## Certificates
+
+|   Skill    |             Question              |                                  Test                                   | Difficulty |                                                  Solution                                                  |                                  Certificate                                  |
+| :--------: | :-------------------------------: | :---------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|   Python   |      Multiset Implementation      |   [Test](https://www.hackerrank.com/skills-verification/python_basic)   |   Basic    |        [Solution](/Skills%20Certification/Python%20-%20Basic/01%20-%20Multiset%20Implementation.py)        |   [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)   |
+|   Python   | String Representations of Objects |   [Test](https://www.hackerrank.com/skills-verification/python_basic)   |   Basic    | [Solution](/Skills%20Certification/Python%20-%20Basic/02%20-%20String%20Representations%20of%20Objects.py) |   [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)   |
+|    Java    |       How Will You Compare        |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |       [Solution](/Skills%20Certification/Java%20-%20Basic/01%20-%20How%20Will%20You%20Compare.java)        |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+|    Java    |          The Adder Class          |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |           [Solution](/Skills%20Certification/Java%20-%20Basic/02%20-%20The%20Adder%20Class.java)           |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+|    Java    |        What is the Output         |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |        [Solution](/Skills%20Certification/Java%20-%20Basic/03%20-%20What%20is%20the%20output.java)         |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+|    Java    |     Which is the right answer     |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |    [Solution](/Skills%20Certification/Java%20-%20Basic/04%20-%20Which%20is%20the%20right%20answer.java)    |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+|    Java    |          Find the Output          |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |           [Solution](/Skills%20Certification/Java%20-%20Basic/05%20-%20Find%20the%20Output.java)           |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+|    Java    |      Which is the wrong way       |    [Test](https://www.hackerrank.com/skills-verification/java_basic)    |   Basic    |     [Solution](/Skills%20Certification/Java%20-%20Basic/06%20-%20Which%20is%20the%20wrong%20way.java)      |    [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)    |
+| JavaScript |           Country Codes           | [Test](https://www.hackerrank.com/skills-verification/javascript_basic) |   Basic    |               [Solution](/Skills%20Certification/JavaScript%20-%20Basic/Country%20Codes.js)                | [Certificate](/Skills%20Certification/JavaScript%20(Basic)%20Certificate.png) |
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
