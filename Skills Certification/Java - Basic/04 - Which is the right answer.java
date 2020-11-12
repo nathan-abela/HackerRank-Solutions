@@ -35,4 +35,4 @@ class SourdoughBlueBerryPancake extends BlueBerryPancake {
 //         Solution
 // ========================
 
-// Answer: Compilation fails due to an error on line 6.
+// Answer: Compilation fails due to an error on line 20.
