@@ -52,6 +52,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 * [Python](#python)
 * [Regex](#regex)
+* [Security](#security)
 * [SQL](#sql)
 
 ### Python
@@ -145,6 +146,17 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |   Repetitions   |       Matching Zero Or More Repetitions        |      [Problem](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem)       |    Easy    |  20   |        [Solution](/Regex/03%20-%20Repetitions/03%20-%20Matching%20Zero%20Or%20More%20Repetitions.py)        |
 |   Repetitions   |        Matching One Or More Repetitions        |       [Problem](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem)       |    Easy    |  20   |        [Solution](/Regex/03%20-%20Repetitions/04%20-%20Matching%20One%20Or%20More%20Repetitions.py)         |
 |   Repetitions   |             Matching Ending Items              |            [Problem](https://www.hackerrank.com/challenges/matching-ending-items/problem)             |    Easy    |  20   |                [Solution](/Regex/03%20-%20Repetitions/05%20-%20Matching%20Ending%20Items.py)                |
+
+### Security
+
+| Subdomain |          Challenge           |                                         Problem                                         | Difficulty | Score |                                       Solution                                        |
+| :-------: | :--------------------------: | :-------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------: |
+| Functions |      Security Functions      |  [Problem](https://www.hackerrank.com/challenges/security-tutorial-functions/problem)   |    Easy    |   5   |       [Solution](/Security/01%20-%20Functions/01%20-%20Security%20Functions.py)       |
+| Functions |    Security Functions II     |      [Problem](https://www.hackerrank.com/challenges/security-function-ii/problem)      |    Easy    |   5   |    [Solution](//Security/01%20-%20Functions/02%20-%20Security%20Functions%20II.py)    |
+| Functions | Security Bijective Functions |  [Problem](https://www.hackerrank.com/challenges/security-bijective-functions/problem)  |    Easy    |  10   | [Solution](/Security/01%20-%20Functions/03%20-%20Security%20Bijective%20Functions.py) |
+| Functions |  Security Function Inverses  | [Problem](https://www.hackerrank.com/challenges/security-inverse-of-a-function/problem) |    Easy    |  10   |  [Solution](/Security/01%20-%20Functions/04%20-%20Security%20Function%20Inverses.py)  |
+| Functions |    Security Permutations     | [Problem](https://www.hackerrank.com/challenges/security-tutorial-permutations/problem) |    Easy    |  10   |     [Solution](/Security/01%20-%20Functions/05%20-%20Security%20Permutations.py)      |
+| Functions |     Security Involution      |      [Problem](https://www.hackerrank.com/challenges/security-involution/problem)       |    Easy    |  10   |      [Solution](/Security/01%20-%20Functions/06%20-%20Security%20Involution.py)       |
 
 ### SQL
 
