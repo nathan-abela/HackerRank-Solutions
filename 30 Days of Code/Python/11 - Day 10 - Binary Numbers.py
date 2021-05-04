@@ -11,17 +11,8 @@
 #         Solution
 # ========================
 
-N = int(input())
-DATA = bin(N)
-
-MAXIMUM = 0
-CURRENT = 0
-
-for num in DATA:
-    if num == '1':
-        CURRENT = CURRENT + 1
-    else:
-        MAXIMUM = max(MAXIMUM, CURRENT)
-        CURRENT = 0
-
-print(max(MAXIMUM, CURRENT))
+    n = int(input())
+    bi = bin(n).replace('0b','')
+    arr = bi.split('0')
+    newarr = [len(arr[i]) for i in range(len(arr))]
+    print(max(newarr))
