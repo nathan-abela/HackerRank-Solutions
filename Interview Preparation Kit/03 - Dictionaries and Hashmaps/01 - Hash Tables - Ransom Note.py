@@ -15,6 +15,7 @@
 def checkMagazine(magazine, note):
     magazine.sort()
     note.sort()
+
     for word in note:
         if word not in magazine:
             flag = False

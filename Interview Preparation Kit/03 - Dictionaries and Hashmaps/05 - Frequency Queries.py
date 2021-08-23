@@ -17,6 +17,7 @@ import os
 def freqQuery(queries):
     count = dict()
     result = list()
+
     for q in queries:
         if q[0] == 1:
             try:

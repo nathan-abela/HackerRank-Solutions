@@ -24,7 +24,6 @@ def countTriplets(arr, r):
 
     # Traversing the array from rear, helps to avoid division
     for x in arr[::-1]:
-
         r_x = r*x
         r_r_x = r*r_x
 
