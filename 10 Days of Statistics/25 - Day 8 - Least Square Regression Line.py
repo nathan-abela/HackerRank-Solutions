@@ -17,7 +17,8 @@ def mean(X):
 
 def lsr(X, Y):
     '''To calculate the Least Square Regression'''
-    B = sum([(X[i] - mean(X)) * (Y[i] - mean(Y)) for i in range(len(X))])/sum([(j - mean(X))**2 for j in X])
+    B = sum([(X[i] - mean(X)) * (Y[i] - mean(Y))
+             for i in range(len(X))])/sum([(j - mean(X))**2 for j in X])
     A = mean(Y) - (B*mean(X))
     return A+(B*80)
 
