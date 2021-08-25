@@ -25,6 +25,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Certificates
 
+<a href="Skills%20Certification/C#%20(Basic)%20Certificate.png">
+    <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
+</a>
 <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
     <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
@@ -39,6 +42,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 </a>
 <a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
     <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+</a>
+<a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
+    <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
 </a>
 
 ## Table Of Contents
@@ -361,13 +367,15 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Certificates
 
-|      Skill      |                                     Test                                     | Difficulty |                                     Certificate                                      |
-| :-------------: | :--------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------: |
-|     Python      |     [Test](https://www.hackerrank.com/skills-verification/python_basic)      |   Basic    |      [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)       |
-|      Java       |      [Test](https://www.hackerrank.com/skills-verification/java_basic)       |   Basic    |       [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)        |
-|   JavaScript    |   [Test](https://www.hackerrank.com/skills-verification/javascript_basic)    |   Basic    |    [Certificate](/Skills%20Certification/JavaScript%20(Basic)%20Certificate.png)     |
-|      React      |      [Test](https://www.hackerrank.com/skills-verification/react_basic)      |   Basic    |       [Certificate](/Skills%20Certification/React%20(Basic)%20Certificate.png)       |
-| Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) |   Basic    | [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png) |
+|      Skill      |                                     Test                                     | Difficulty |                                                               Description                                                                |                                     Certificate                                      |
+| :-------------: | :--------------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+|       C#        |     [Test](https://www.hackerrank.com/skills-verification/c_sharp_basic)     |   Basic    |                 Data Types, and Variables, OOP, Properties and Indexers, Collections, Exception handling, among others.                  |        [Certificate](/Skills%20Certification/C#%20(Basic)%20Certificate.png)         |
+|     Python      |     [Test](https://www.hackerrank.com/skills-verification/python_basic)      |   Basic    |         Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes          |      [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)       |
+|      Java       |      [Test](https://www.hackerrank.com/skills-verification/java_basic)       |   Basic    |                                 Classes, Data Structures, Inheritance, Exception Handling, among others.                                 |       [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)        |
+|   JavaScript    |   [Test](https://www.hackerrank.com/skills-verification/javascript_basic)    |   Basic    |                               Functions, Currying, Hoisting, Scope, Inheritance, Events and Error Handling                               |    [Certificate](/Skills%20Certification/JavaScript%20(Basic)%20Certificate.png)     |
+|      React      |      [Test](https://www.hackerrank.com/skills-verification/react_basic)      |   Basic    | Basic Routing, Rendering Elements, State Management (Internal Component State), Handling Events, ES6 and JavaScript and Form Validation. |       [Certificate](/Skills%20Certification/React%20(Basic)%20Certificate.png)       |
+| Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) |   Basic    |                        Data Structures (such as Arrays, Strings) and Algorithms (such as Sorting and Searching).                         | [Certificate](/Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png) |
+|       SQL       |       [Test](https://www.hackerrank.com/skills-verification/sql_basic)       |   Basic    |                                                 Queries, Relationships, and Aggregators                                                  |        [Certificate](/Skills%20Certification/SQL%20(Basic)%20Certificate.png)        |
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
