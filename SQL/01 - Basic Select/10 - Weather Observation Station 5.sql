@@ -21,6 +21,18 @@ FROM STATION
 ORDER BY LENGTH(CITY) DESC
 LIMIT 1;
 
+
+//for the ms sql server 
+
+SELECT Top 1 CITY, LEN(CITY)
+FROM STATION
+ORDER BY LEN(CITY), CITY ASC
+;
+
+SELECT Top 1 CITY, LEN(CITY)
+FROM STATION
+ORDER BY LEN(CITY) DESC
+ ;
 -- ========================
 --       Explanation
 -- ========================
