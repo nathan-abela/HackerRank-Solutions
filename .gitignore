@@ -5,6 +5,26 @@
 .DS_Store
 Thumbs.db
 .pylintrc
+*.psd
+
+# Folders to ignore
+/Skills Certification/Angular - Basic
+/Skills Certification/Angular - Intermediate
+/Skills Certification/C# - Basic
+/Skills Certification/CSS
+/Skills Certification/Java - Basic
+/Skills Certification/JavaScript - Basic
+/Skills Certification/JavaScript - Intermediate
+/Skills Certification/Node - Basic
+/Skills Certification/Node - Intermediate
+/Skills Certification/Problem Solving - Basic
+/Skills Certification/Python - Basic
+/Skills Certification/React - Basic
+/Skills Certification/REST API - Intermediate
+/Skills Certification/SQL - Basic
+/Skills Certification/SQL - Intermediate
+/Skills Certification/SQL - Advanced
+/Skills Certification/READMEwithLinkToSolutions.md
 
 # Thumbnails
 ._*
