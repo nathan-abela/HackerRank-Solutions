@@ -28,6 +28,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 <a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
     <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
 </a>
+<!-- <a href="Skills%20Certification/CSS%20Certificate.png">
+    <img src="Badges/css_skill.png" alt="CSS Certificate"/>
+</a> -->
 <a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
     <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
 </a>
@@ -57,6 +60,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 </a>
 <a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png">
     <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
+</a>
+<a href="Skills%20Certification/SQL%20(Advanced)%20Certificate.png">
+    <img src="Badges/sql_advanced_skill.png" alt="SQL (Advanced) Certificate"/>
 </a>
 
 ## Table Of Contents
@@ -382,6 +388,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |      Skill      |                                      Test                                      |  Difficulty  |                                                               Description                                                               |                                     Certificate                                      |
 | :-------------: | :----------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 |       C#        |      [Test](https://www.hackerrank.com/skills-verification/c_sharp_basic)      |    Basic     |                 Data Types, and Variables, OOP, Properties and Indexers, Collections, Exception handling, among others                  |       [Certificate](/Skills%20Certification/C%23%20(Basic)%20Certificate.png)        |
+|       CSS       |           [Test](https://www.hackerrank.com/skills-verification/css)           |    Basic     |                                  Text Styling Fundamentals, Layouts, Boxing of Elements, among others                                   |             [Certificate](/Skills%20Certification/CSS%20Certificate.png)             |
 |     Python      |      [Test](https://www.hackerrank.com/skills-verification/python_basic)       |    Basic     |         Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes         |      [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)       |
 |      Java       |       [Test](https://www.hackerrank.com/skills-verification/java_basic)        |    Basic     |                                 Classes, Data Structures, Inheritance, Exception Handling, among others                                 |       [Certificate](/Skills%20Certification/Java%20(Basic)%20Certificate.png)        |
 |   JavaScript    |    [Test](https://www.hackerrank.com/skills-verification/javascript_basic)     |    Basic     |                              Functions, Currying, Hoisting, Scope, Inheritance, Events and Error Handling                               |    [Certificate](/Skills%20Certification/JavaScript%20(Basic)%20Certificate.png)     |
@@ -392,6 +399,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |    REST API     |  [Test](https://www.hackerrank.com/skills-verification/rest_api_intermediate)  | Intermediate |                                   Retrieving data from an API and process using parameters or paging                                    |        [Certificate](/Skills%20Certification/REST%20API%20(Intermediate).png)        |
 |       SQL       |        [Test](https://www.hackerrank.com/skills-verification/sql_basic)        |    Basic     |                                                 Queries, Relationships, and Aggregators                                                 |        [Certificate](/Skills%20Certification/SQL%20(Basic)%20Certificate.png)        |
 |       SQL       |    [Test](https://www.hackerrank.com/skills-verification/sql_intermediate)     | Intermediate |                                                 Complex joins, Unions, and Sub-Queries                                                  |    [Certificate](/Skills%20Certification/SQL%20(Intermediate)%20Certificate.png)     |
+|       SQL       |      [Test](https://www.hackerrank.com/skills-verification/sql_advanced)       |   Advanced   |                               Query Optimization, Data Modelling, Indexing, Window Functions, and Pivots                                |      [Certificate](/Skills%20Certification/SQL%20(Advanced)%20Certificate.png)       |
 
 <p align="center">
     <a href="https://www.hackerrank.com/nathanabela7">
