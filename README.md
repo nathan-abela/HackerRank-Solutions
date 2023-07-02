@@ -28,6 +28,9 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 <a href="Skills%20Certification/Angular%20(Basic)%20Certificate.png">
     <img src="Badges/angular_basic_skill.png" alt="Angular (Basic) Certificate"/>
 </a>
+<a href="Skills%20Certification/Angular%20(Intermediate)%20Certificate.png">
+    <img src="Badges/angular_intermediate_skill.png" alt="Angular (Intermediate) Certificate"/>
+</a>
 <a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
     <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
 </a>
@@ -391,6 +394,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 |      Skill      |                                      Test                                      |  Difficulty  |                                                               Description                                                               |                                     Certificate                                      |
 | :-------------: | :----------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 |     Angular     |      [Test](https://www.hackerrank.com/skills-verification/angular_basic)      |    Basic     |                 MVC Frameworks, Components (Angular, Dynamic, Styling), TypeScript, Two Way Binding and Form Validation                 |      [Certificate](/Skills%20Certification/Angular%20(Basic)%20Certificate.png)      |
+|     Angular     |  [Test](https://www.hackerrank.com/skills-verification/angular_intermediate)   | Intermediate |                Routing, NgModules, Observables for data transmission and event handling, Dependency Injections, and APIs                |  [Certificate](/Skills%20Certification/Angular%20(Intermediate)%20Certificate.png)   |
 |       C#        |      [Test](https://www.hackerrank.com/skills-verification/c_sharp_basic)      |    Basic     |                 Data Types, and Variables, OOP, Properties and Indexers, Collections, Exception handling, among others                  |       [Certificate](/Skills%20Certification/C%23%20(Basic)%20Certificate.png)        |
 |       CSS       |           [Test](https://www.hackerrank.com/skills-verification/css)           |    Basic     |                                  Text Styling Fundamentals, Layouts, Boxing of Elements, among others                                   |             [Certificate](/Skills%20Certification/CSS%20Certificate.png)             |
 |     Python      |      [Test](https://www.hackerrank.com/skills-verification/python_basic)       |    Basic     |         Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes         |      [Certificate](/Skills%20Certification/Python%20(Basic)%20Certificate.png)       |
